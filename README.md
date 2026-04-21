@@ -1,7 +1,7 @@
 <h1 align="center"> 𝐒𝐏𝐀𝐂𝐄 𝐌𝐃 </h1>
 
 <p align="center">
-  <a href="https://github.com/TristanCage/SPACE-MD">
+  <a href="https://github.com/TristanCage/">
     <img alt="SPACE-MD docs" height="350" src="https://files.catbox.moe/ia1mgm.jpg">
   </a>
 </p>
